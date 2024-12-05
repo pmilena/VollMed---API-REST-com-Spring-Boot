@@ -6,7 +6,7 @@ import jakarta.validation.Valid;
 import med.voll.api.domain.pacientes.DadosAtualizarPacientes;
 import med.voll.api.domain.pacientes.DadosCadastroPacientes;
 import med.voll.api.domain.pacientes.Paciente;
-import med.voll.api.repository.PacienteRepository;
+import med.voll.api.domain.pacientes.PacienteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

@@ -8,7 +8,7 @@ import med.voll.api.domain.medicos.DadosAtualizarMedicos;
 import med.voll.api.domain.medicos.DadosCadastroMedicos;
 import med.voll.api.domain.medicos.ListaDeMedicos;
 import med.voll.api.domain.medicos.Medico;
-import med.voll.api.repository.MedicoRepository;
+import med.voll.api.domain.medicos.MedicoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

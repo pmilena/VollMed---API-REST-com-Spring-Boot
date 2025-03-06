@@ -33,3 +33,41 @@ Antes de rodar o projeto, você precisa ter as seguintes ferramentas instaladas:
 - Insomnia (opcional, para testes de API)
 
 ---
+*************************************************************************************************************************************************************************************************************************************************
+
+# VollMed - REST API with Spring Boot
+
+This project is a **REST API** developed using the **Spring Boot** framework. The main objective is to provide an interface for performing **CRUD** operations (Create, Read, Update, and Delete) on a relational database.
+
+---
+
+## ⚙️ Technologies Used
+
+- **Spring Boot**: Framework for Java application development.
+- **Spring Data JPA**: Simplifies database integration and repository implementation.
+- **MySQL**: Database management system used.
+- **Flyway**: Tool for database version control and migrations.
+- **Lombok**: Library to reduce boilerplate code, such as automatic getters, setters, and constructors.
+
+---
+
+## 🚀 Features
+
+- **Create new records**: Allows adding new entries to the database.
+- **Read existing records**: Retrieves stored data from the database.
+- **Update records**: Modifies existing records.
+- **Delete records**: Removes data from the database.
+
+---
+
+## 🛠️ Prerequisites
+
+Before running the project, ensure you have the following tools installed:
+
+- JDK 17+
+- Maven
+- MySQL
+- Insomnia (optional, for API testing)
+
+---
+
